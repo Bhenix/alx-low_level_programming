@@ -12,5 +12,5 @@ int main(void)
 	sizeof(double);
 	sizeof(long);
 	sizeof(long long);
-	sizeof(short);
-
+	sizeof(short); 
+}
